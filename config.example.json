@@ -1,0 +1,16 @@
+{
+  "source_url": "https://plexusrs.com/jobs/",
+  "group_name": "Job alerts",
+  "state_path": "data/seen_jobs.json",
+  "notifier": "telegram_bot",
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "send_timeout_seconds": 60,
+  "send_retries": 5,
+  "send_delay_seconds": 3,
+  "max_pages": 8,
+  "http_timeout_seconds": 20,
+  "user_agent": "job-alert/0.1 (+local personal job monitor)",
+  "title_denylist": [],
+  "location_denylist": []
+}

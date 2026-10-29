@@ -1,0 +1,11 @@
+bin/
+data/
+.gocache/
+config.json
+*.db
+*.sqlite
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
